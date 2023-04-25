@@ -14,7 +14,72 @@
     <main class="principal">
         <div class="conteudo">
             <nav class="modulos">
-            <div class="modulo verde-escuro">
+                <div class="modulo vermelho-escuro">
+                    <h3>7. Funções</h3>
+                    <ul>
+                        <li>
+                            <a href="exercicio.php?dir=funcoes&file=escopo">
+                                Função & Escopo
+                            </a>
+                        </li>
+                        <li>
+                            <a href="exercicio.php?dir=funcoes&file=args_retorno">
+                                Argumentos & Retorno
+                            </a>
+                        </li>
+                        <li>
+                            <a href="exercicio.php?dir=funcoes&file=palindromo">
+                                Desafio Palindromo
+                            </a>
+                        </li>
+                        <li>
+                            <a href="exercicio.php?dir=funcoes&file=args_variaveis">
+                                Argumentos Variaveis
+                            </a>
+                        </li>
+                        <li>
+                            <a href="exercicio.php?dir=funcoes&file=arg_padrao">
+                                Argumentos Padrão
+                            </a>
+                        </li>
+                        <li>
+                            <a href="exercicio.php?dir=funcoes&file=usando_tipos">
+                                Usando Tipos
+                            </a>
+                        </li>
+                        <li>
+                            <a href="exercicio.php?dir=funcoes&file=funcao_anonima">
+                                Funções Anonimas
+                            </a>
+                        </li>
+                        <li>
+                            <a href="exercicio.php?dir=funcoes&file=closure_callable">
+                                Closure & Callable
+                            </a>
+                        </li>
+                        <li>
+                            <a href="exercicio.php?dir=funcoes&file=recursividade">
+                                Recursividade
+                            </a>
+                        </li>
+                        <li>
+                            <a href="exercicio.php?dir=funcoes&file=desafio_recurssividade">
+                                Desafio Recursividade
+                            </a>
+                        </li>
+                        <li>
+                            <a href="exercicio.php?dir=funcoes&file=retornando_funcao">
+                                Retornando Funções
+                            </a>
+                        </li>
+                        <li>
+                            <a href="exercicio.php?dir=funcoes&file=map_filter">
+                                Map & Filter
+                            </a>
+                        </li>
+                    </ul>
+                </div>
+                <div class="modulo verde-escuro">
                     <h3>6. Repetições</h3>
                     <ul>
                         <li>
